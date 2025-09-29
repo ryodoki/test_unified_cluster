@@ -1,0 +1,2 @@
+import pandas as pd
+print(pd.DataFrame({"A":[1,2,3],"B":[4,5,6]}))
